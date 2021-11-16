@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Simplon",
+    "link": "https://simplon.co/",
+    "image": "https://simplon.co/uploads/Site national/Home-site-national/Simplon-co.png",
+    "description": "Simplon.co - Fabriques labellisées Grande Ecole du Numérique - In Code We Trust #frenchtech #ess #empowerment"
+  },
+  {
+    "id": 2,
+    "name": "Inco Academy",
+    "link": "https://www.academy.inco-group.co/?lang=fr",
+    "image": "https://static.wixstatic.com/media/e37d76_78285588dda94d00a53c8e1e0d92f400~mv2.jpg/v1/fill/w_1576,h_1020,al_c/e37d76_78285588dda94d00a53c8e1e0d92f400~mv2.jpg",
+    "description": "INCO Academy’s training programs provide free certified online digital courses through equitable access to the knowledge, skills, and habits necessary to secure in-demand, high-opportunity jobs in the changing economy."
+  },
+  {
+    "id": 3,
+    "name": "Le Wagon",
+    "link": "https://www.lewagon.com/fr/paris",
+    "image": "https://res.cloudinary.com/wagon/image/upload/c_fill,h_522,w_1000/v1596821544/c7qciahbutrpoi4o0bi9.jpg",
+    "description": "Rejoignez nos formations intensives en Développement Web et Data Science à Paris."
+  }
+]
