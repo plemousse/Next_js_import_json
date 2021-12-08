@@ -1,5 +1,6 @@
-# importation d'un JSON dans next.js
+Le projet consisté à afficher sur une vue les bootcamps qui se situe dans le fichier bootcamps.json.
 
-Heroku : https://testtechniquen.herokuapp.com/
+On peut voir tout le contenu du JSON en cliquant sut tout les bootcamp, j'ai aussi créé des pages dynamiques pour pouvoir afficher un élément bien précis du JSON pour y avoir accès, il suffit d'appui sûr detail, quand on affiche tout les bootcamps.
 
-Le projet consister à afficher sur une vue les bootcamps qui se situe dans bootcamps.json
+
+Le tout est hébergé sur heroku : https://testtechniquen.herokuapp.com/
