@@ -4,3 +4,5 @@ On peut voir tout le contenu du JSON en cliquant sut tout les bootcamp, j'ai aus
 
 
 Le tout est hébergé sur heroku : https://testtechniquen.herokuapp.com/
+
+Et aussi sur vercel : http://next-js-import-json-vercel.vercel.app/
